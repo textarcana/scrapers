@@ -1,0 +1,14 @@
+= Scrapers
+
+Some tools to retrieve text or files from remote Web pages.
+
+== Grabit.pl
+
+My first Web scraper.  Expects as argument the name of a file containing a newline-delimited list of URLs. When invoked, launches an interactive shell that asks what type of file should be downloaded. Then downloads all the files that are linked from each of the listed Web pages.
+
+Here's the instructions to use:
+
+0. Put a list of all the pages you want to scrape, into a text file named FOO
+0. Say <code>perl grabit.pl FOO</code>
+0. You will be prompted to choose which type of file you want to grab.
+0. Enjoy!
