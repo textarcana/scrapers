@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Simpsons.xsl"?>
+<Simpsons>
+<FamilyMember>Homer Jay Simpson</FamilyMember>
+<FamilyMember>Marjorie Marge Simpson (Bouvier)</FamilyMember>
+<FamilyMember>Bartholomew Jojo Bart Simpson</FamilyMember>
+<FamilyMember>Lisa Marie Simpson</FamilyMember>
+<FamilyMember>Margaret Maggie Simpson</FamilyMember>
+<ExtendedFamilyMember>Abraham Jay Simpson</ExtendedFamilyMember>
+<ExtendedFamilyMember>Mona J. Simpson</ExtendedFamilyMember>
+<ExtendedFamilyMember>Jacqueline Ingrid Bouvier</ExtendedFamilyMember>
+<ExtendedFamilyMember>Clancy Bouvier</ExtendedFamilyMember>
+<ExtendedFamilyMember>Patricia "Patty" Bouvier</ExtendedFamilyMember>
+</Simpsons>
